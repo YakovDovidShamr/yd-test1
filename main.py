@@ -1,5 +1,5 @@
 print("Mashiach")
-waw = 'We want Mashiach now!!!'
+waw = 'We want Mashiach noww!!!'
 print(waw)
 for elem in waw:
     print(elem)
