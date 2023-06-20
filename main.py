@@ -1,1 +1,1 @@
-print("Masiach")
+print("Mashiach")
